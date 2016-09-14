@@ -1,0 +1,12 @@
+F:\Poppel\AIKE\AIKE\bin\Debug\AIKE.exe.config
+C:\Users\RMYADA001\Desktop\Poppel\AIKE\AIKE\bin\Debug\AIKE.exe.config
+C:\Users\RMYADA001\Desktop\Poppel\AIKE\AIKE\obj\Debug\AIKE.csprojResolveAssemblyReference.cache
+C:\Users\RMYADA001\Desktop\Poppel\AIKE\AIKE\obj\Debug\AIKE.LoginForm.resources
+C:\Users\RMYADA001\Desktop\Poppel\AIKE\AIKE\obj\Debug\AIKE.Properties.Resources.resources
+C:\Users\RMYADA001\Desktop\Poppel\AIKE\AIKE\obj\Debug\AIKE.csproj.GenerateResource.Cache
+C:\Users\RMYADA001\Desktop\Poppel\AIKE\AIKE\bin\Debug\Poppel.mdf
+C:\Users\RMYADA001\Desktop\Poppel\AIKE\AIKE\bin\Debug\Poppel_log.ldf
+C:\Users\RMYADA001\Desktop\Poppel\AIKE\AIKE\bin\Debug\AIKE.exe
+C:\Users\RMYADA001\Desktop\Poppel\AIKE\AIKE\bin\Debug\AIKE.pdb
+C:\Users\RMYADA001\Desktop\Poppel\AIKE\AIKE\obj\Debug\AIKE.exe
+C:\Users\RMYADA001\Desktop\Poppel\AIKE\AIKE\obj\Debug\AIKE.pdb

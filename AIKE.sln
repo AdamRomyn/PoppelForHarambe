@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIKE", "AIKE\AIKE.csproj", "{1DE96FA3-555E-4D0B-8962-E4BE52000434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workshop5_WaS4_2016", "..\..\RMYADA001 - W5\A-IKE\Workshop5_WaS4_2016\Workshop5_WaS4_2016.csproj", "{A4482526-832D-4E9D-8626-C5F8C8C75633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DE96FA3-555E-4D0B-8962-E4BE52000434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE96FA3-555E-4D0B-8962-E4BE52000434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE96FA3-555E-4D0B-8962-E4BE52000434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE96FA3-555E-4D0B-8962-E4BE52000434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4482526-832D-4E9D-8626-C5F8C8C75633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4482526-832D-4E9D-8626-C5F8C8C75633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4482526-832D-4E9D-8626-C5F8C8C75633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4482526-832D-4E9D-8626-C5F8C8C75633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
